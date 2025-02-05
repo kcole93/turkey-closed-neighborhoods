@@ -9,7 +9,7 @@ The list of affected neighborhoods published by the Presidency of Migration Mana
 
 Fuzzy matching was used to match this list to an existing data set representing Turkish neighborhood spatial data. A total of 1,152 unique neighborhoods were identified through this approach, while the PMM's officially communicated count of affected neighborhoods is 1,160.
 
-An RMarkdown notebook detailing the steps used to produce the final GeoJSON file can be found [here](/Turkish_Geodata_Wrangling.rmd).
+An overview of the steps used to produce the final GeoJSON file, including R code, can be found [here](/Turkish_Geodata_Wrangling.md).
 
 ### Renamed & Missing Neighborhoods
 - **Mehmet Abdi Bulut Mahallesi** in Kilis is missing from the mapped data. The neighborhood was created in 2021 and is not yet reflected in the neighborhood spatial data set.
